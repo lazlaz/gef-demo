@@ -2,7 +2,7 @@
 
 
 
-### ### [GEF插件开发（一，空白编辑器搭建）](https://my.oschina.net/u/1260047/blog/729567)
+### [GEF插件开发（一，空白编辑器搭建）](https://my.oschina.net/u/1260047/blog/729567)
 
 
 
